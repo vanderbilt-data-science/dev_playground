@@ -77,6 +77,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# nbdev
+.gitconfig
+.gitattributes
+*.bak
+
 # IPython
 profile_default/
 ipython_config.py
