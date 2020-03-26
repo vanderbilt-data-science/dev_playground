@@ -18,4 +18,3 @@ dependencies:
     - fastscript==0.1.4
     - nbdev==0.2.16
     - packaging==20.3
-
