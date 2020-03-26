@@ -1,6 +1,6 @@
 # dev_playground
 This repo provides an area for exploring merge conflict resolution, branching, and merging with Jupyter notebooks
-I have made local changes.
+I have made local merged changes.
 # Installation
 To prepare the correct environment with nbdev and other relevant notebooks for data science in Jupyter, you'll need to first create the and activate the relevant conda virtual environment.  The steps are outlined below:
 
